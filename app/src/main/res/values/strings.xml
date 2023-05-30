@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapPhoto</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="navigation_item_3">Drawn on Map</string>
+    <string name="navigation_item_2">Compass Map</string>
+    <string name="navigation_item_1">Basic Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
